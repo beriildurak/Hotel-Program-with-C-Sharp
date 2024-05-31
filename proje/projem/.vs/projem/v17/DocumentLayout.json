@@ -1,0 +1,280 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\beril\\Desktop\\proje\\projem\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{389C395D-06DD-43D9-8F4E-AF16E87E904B}|projem\\projem.csproj|C:\\Users\\beril\\Desktop\\proje\\projem\\projem\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{389C395D-06DD-43D9-8F4E-AF16E87E904B}|projem\\projem.csproj|solutionrelative:projem\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{389C395D-06DD-43D9-8F4E-AF16E87E904B}|projem\\projem.csproj|C:\\Users\\beril\\Desktop\\proje\\projem\\projem\\hakkimizda.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{389C395D-06DD-43D9-8F4E-AF16E87E904B}|projem\\projem.csproj|solutionrelative:projem\\hakkimizda.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{389C395D-06DD-43D9-8F4E-AF16E87E904B}|projem\\projem.csproj|C:\\Users\\beril\\Desktop\\proje\\projem\\projem\\musterikayit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{389C395D-06DD-43D9-8F4E-AF16E87E904B}|projem\\projem.csproj|solutionrelative:projem\\musterikayit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{389C395D-06DD-43D9-8F4E-AF16E87E904B}|projem\\projem.csproj|C:\\Users\\beril\\Desktop\\proje\\projem\\projem\\odadurum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{389C395D-06DD-43D9-8F4E-AF16E87E904B}|projem\\projem.csproj|solutionrelative:projem\\odadurum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{389C395D-06DD-43D9-8F4E-AF16E87E904B}|projem\\projem.csproj|C:\\Users\\beril\\Desktop\\proje\\projem\\projem\\rezervasyon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{389C395D-06DD-43D9-8F4E-AF16E87E904B}|projem\\projem.csproj|solutionrelative:projem\\rezervasyon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{389C395D-06DD-43D9-8F4E-AF16E87E904B}|projem\\projem.csproj|C:\\Users\\beril\\Desktop\\proje\\projem\\projem\\yonetici.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{389C395D-06DD-43D9-8F4E-AF16E87E904B}|projem\\projem.csproj|solutionrelative:projem\\yonetici.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{389C395D-06DD-43D9-8F4E-AF16E87E904B}|projem\\projem.csproj|C:\\Users\\beril\\Desktop\\proje\\projem\\projem\\yoneticigirisekran.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{389C395D-06DD-43D9-8F4E-AF16E87E904B}|projem\\projem.csproj|solutionrelative:projem\\yoneticigirisekran.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{389C395D-06DD-43D9-8F4E-AF16E87E904B}|projem\\projem.csproj|C:\\Users\\beril\\Desktop\\proje\\projem\\projem\\yoneticisayfa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{389C395D-06DD-43D9-8F4E-AF16E87E904B}|projem\\projem.csproj|solutionrelative:projem\\yoneticisayfa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{389C395D-06DD-43D9-8F4E-AF16E87E904B}|projem\\projem.csproj|c:\\users\\beril\\desktop\\proje\\projem\\projem\\musterikayit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{389C395D-06DD-43D9-8F4E-AF16E87E904B}|projem\\projem.csproj|solutionrelative:projem\\musterikayit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{389C395D-06DD-43D9-8F4E-AF16E87E904B}|projem\\projem.csproj|C:\\Users\\beril\\Desktop\\proje\\projem\\projem\\baglanti.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{389C395D-06DD-43D9-8F4E-AF16E87E904B}|projem\\projem.csproj|solutionrelative:projem\\baglanti.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{389C395D-06DD-43D9-8F4E-AF16E87E904B}|projem\\projem.csproj|C:\\Users\\beril\\Desktop\\proje\\projem\\projem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{389C395D-06DD-43D9-8F4E-AF16E87E904B}|projem\\projem.csproj|solutionrelative:projem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{389C395D-06DD-43D9-8F4E-AF16E87E904B}|projem\\projem.csproj|C:\\Users\\beril\\Desktop\\proje\\projem\\projem\\anasayfa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{389C395D-06DD-43D9-8F4E-AF16E87E904B}|projem\\projem.csproj|solutionrelative:projem\\anasayfa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{389C395D-06DD-43D9-8F4E-AF16E87E904B}|projem\\projem.csproj|C:\\Users\\beril\\Desktop\\proje\\projem\\projem\\rezervasyon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{389C395D-06DD-43D9-8F4E-AF16E87E904B}|projem\\projem.csproj|solutionrelative:projem\\rezervasyon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{389C395D-06DD-43D9-8F4E-AF16E87E904B}|projem\\projem.csproj|C:\\Users\\beril\\Desktop\\proje\\projem\\projem\\yoneticisayfa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{389C395D-06DD-43D9-8F4E-AF16E87E904B}|projem\\projem.csproj|solutionrelative:projem\\yoneticisayfa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{389C395D-06DD-43D9-8F4E-AF16E87E904B}|projem\\projem.csproj|C:\\Users\\beril\\Desktop\\proje\\projem\\projem\\odadurum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{389C395D-06DD-43D9-8F4E-AF16E87E904B}|projem\\projem.csproj|solutionrelative:projem\\odadurum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{389C395D-06DD-43D9-8F4E-AF16E87E904B}|projem\\projem.csproj|C:\\Users\\beril\\Desktop\\proje\\projem\\projem\\yonetici.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{389C395D-06DD-43D9-8F4E-AF16E87E904B}|projem\\projem.csproj|solutionrelative:projem\\yonetici.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "rezervasyon.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\beril\\Desktop\\proje\\projem\\projem\\rezervasyon.cs",
+              "RelativeDocumentMoniker": "projem\\rezervasyon.cs",
+              "ToolTip": "C:\\Users\\beril\\Desktop\\proje\\projem\\projem\\rezervasyon.cs [Tasar\u0131m]",
+              "RelativeToolTip": "projem\\rezervasyon.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-30T00:10:54.952Z",
+              "EditorCaption": " [Tasar\u0131m]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "odadurum.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\beril\\Desktop\\proje\\projem\\projem\\odadurum.cs",
+              "RelativeDocumentMoniker": "projem\\odadurum.cs",
+              "ToolTip": "C:\\Users\\beril\\Desktop\\proje\\projem\\projem\\odadurum.cs [Tasar\u0131m]",
+              "RelativeToolTip": "projem\\odadurum.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-30T00:07:23.749Z",
+              "EditorCaption": " [Tasar\u0131m]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "musterikayit.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\beril\\Desktop\\proje\\projem\\projem\\musterikayit.cs",
+              "RelativeDocumentMoniker": "projem\\musterikayit.cs",
+              "ToolTip": "C:\\Users\\beril\\Desktop\\proje\\projem\\projem\\musterikayit.cs [Tasar\u0131m]",
+              "RelativeToolTip": "projem\\musterikayit.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-30T00:07:23.75Z",
+              "EditorCaption": " [Tasar\u0131m]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "hakkimizda.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\beril\\Desktop\\proje\\projem\\projem\\hakkimizda.cs",
+              "RelativeDocumentMoniker": "projem\\hakkimizda.cs",
+              "ToolTip": "C:\\Users\\beril\\Desktop\\proje\\projem\\projem\\hakkimizda.cs [Tasar\u0131m]",
+              "RelativeToolTip": "projem\\hakkimizda.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-30T00:07:23.751Z",
+              "EditorCaption": " [Tasar\u0131m]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "AnaSayfa.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\beril\\Desktop\\proje\\projem\\projem\\AnaSayfa.cs",
+              "RelativeDocumentMoniker": "projem\\AnaSayfa.cs",
+              "ToolTip": "C:\\Users\\beril\\Desktop\\proje\\projem\\projem\\AnaSayfa.cs [Tasar\u0131m]",
+              "RelativeToolTip": "projem\\AnaSayfa.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-30T00:07:23.752Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "yoneticigirisekran.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\beril\\Desktop\\proje\\projem\\projem\\yoneticigirisekran.cs",
+              "RelativeDocumentMoniker": "projem\\yoneticigirisekran.cs",
+              "ToolTip": "C:\\Users\\beril\\Desktop\\proje\\projem\\projem\\yoneticigirisekran.cs [Tasar\u0131m]",
+              "RelativeToolTip": "projem\\yoneticigirisekran.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-30T00:07:23.754Z",
+              "EditorCaption": " [Tasar\u0131m]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "yonetici.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\beril\\Desktop\\proje\\projem\\projem\\yonetici.cs",
+              "RelativeDocumentMoniker": "projem\\yonetici.cs",
+              "ToolTip": "C:\\Users\\beril\\Desktop\\proje\\projem\\projem\\yonetici.cs [Tasar\u0131m]",
+              "RelativeToolTip": "projem\\yonetici.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-30T00:07:23.755Z",
+              "EditorCaption": " [Tasar\u0131m]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "yoneticisayfa.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\beril\\Desktop\\proje\\projem\\projem\\yoneticisayfa.cs",
+              "RelativeDocumentMoniker": "projem\\yoneticisayfa.cs",
+              "ToolTip": "C:\\Users\\beril\\Desktop\\proje\\projem\\projem\\yoneticisayfa.cs [Tasar\u0131m]",
+              "RelativeToolTip": "projem\\yoneticisayfa.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-30T00:07:23.753Z",
+              "EditorCaption": " [Tasar\u0131m]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\beril\\Desktop\\proje\\projem\\projem\\Form1.cs",
+              "RelativeDocumentMoniker": "projem\\Form1.cs",
+              "ToolTip": "C:\\Users\\beril\\Desktop\\proje\\projem\\projem\\Form1.cs [Tasar\u0131m]",
+              "RelativeToolTip": "projem\\Form1.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-30T00:07:23.751Z",
+              "EditorCaption": " [Tasar\u0131m]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "baglanti.cs",
+              "DocumentMoniker": "C:\\Users\\beril\\Desktop\\proje\\projem\\projem\\baglanti.cs",
+              "RelativeDocumentMoniker": "projem\\baglanti.cs",
+              "ToolTip": "C:\\Users\\beril\\Desktop\\proje\\projem\\projem\\baglanti.cs",
+              "RelativeToolTip": "projem\\baglanti.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-30T00:07:23.752Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "yoneticisayfa.cs",
+              "DocumentMoniker": "C:\\Users\\beril\\Desktop\\proje\\projem\\projem\\yoneticisayfa.cs",
+              "RelativeDocumentMoniker": "projem\\yoneticisayfa.cs",
+              "ToolTip": "C:\\Users\\beril\\Desktop\\proje\\projem\\projem\\yoneticisayfa.cs",
+              "RelativeToolTip": "projem\\yoneticisayfa.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAE8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-30T00:10:47.527Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "rezervasyon.cs",
+              "DocumentMoniker": "C:\\Users\\beril\\Desktop\\proje\\projem\\projem\\rezervasyon.cs",
+              "RelativeDocumentMoniker": "projem\\rezervasyon.cs",
+              "ToolTip": "C:\\Users\\beril\\Desktop\\proje\\projem\\projem\\rezervasyon.cs",
+              "RelativeToolTip": "projem\\rezervasyon.cs",
+              "ViewState": "AQIAANEAAAAAAAAAAAAAAEQAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-30T00:10:56.331Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "odadurum.cs",
+              "DocumentMoniker": "C:\\Users\\beril\\Desktop\\proje\\projem\\projem\\odadurum.cs",
+              "RelativeDocumentMoniker": "projem\\odadurum.cs",
+              "ToolTip": "C:\\Users\\beril\\Desktop\\proje\\projem\\projem\\odadurum.cs",
+              "RelativeToolTip": "projem\\odadurum.cs",
+              "ViewState": "AQIAAGAAAAAAAAAAAAAAAB0AAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-30T00:07:23.682Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "musterikayit.cs",
+              "DocumentMoniker": "C:\\Users\\beril\\Desktop\\proje\\projem\\projem\\musterikayit.cs",
+              "RelativeDocumentMoniker": "projem\\musterikayit.cs",
+              "ToolTip": "C:\\Users\\beril\\Desktop\\proje\\projem\\projem\\musterikayit.cs",
+              "RelativeToolTip": "projem\\musterikayit.cs",
+              "ViewState": "AQIAAFYAAAAAAAAAAAApwLYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-30T00:10:13.618Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\beril\\Desktop\\proje\\projem\\projem\\Program.cs",
+              "RelativeDocumentMoniker": "projem\\Program.cs",
+              "ToolTip": "C:\\Users\\beril\\Desktop\\proje\\projem\\projem\\Program.cs",
+              "RelativeToolTip": "projem\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-30T00:07:23.748Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "yonetici.cs",
+              "DocumentMoniker": "C:\\Users\\beril\\Desktop\\proje\\projem\\projem\\yonetici.cs",
+              "RelativeDocumentMoniker": "projem\\yonetici.cs",
+              "ToolTip": "C:\\Users\\beril\\Desktop\\proje\\projem\\projem\\yonetici.cs",
+              "RelativeToolTip": "projem\\yonetici.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAIAAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-30T00:07:23.755Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

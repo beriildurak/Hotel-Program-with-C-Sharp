@@ -1,0 +1,91 @@
+C:\Users\beril\source\repos\projem\projem\bin\Debug\projem.exe.config
+C:\Users\beril\source\repos\projem\projem\bin\Debug\projem.exe
+C:\Users\beril\source\repos\projem\projem\bin\Debug\projem.pdb
+C:\Users\beril\source\repos\projem\projem\obj\Debug\projem.csproj.AssemblyReference.cache
+C:\Users\beril\source\repos\projem\projem\obj\Debug\projem.csproj.SuggestedBindingRedirects.cache
+C:\Users\beril\source\repos\projem\projem\obj\Debug\projem.Form1.resources
+C:\Users\beril\source\repos\projem\projem\obj\Debug\projem.Properties.Resources.resources
+C:\Users\beril\source\repos\projem\projem\obj\Debug\projem.csproj.GenerateResource.cache
+C:\Users\beril\source\repos\projem\projem\obj\Debug\projem.csproj.CoreCompileInputs.cache
+C:\Users\beril\source\repos\projem\projem\obj\Debug\projem.exe
+C:\Users\beril\source\repos\projem\projem\obj\Debug\projem.pdb
+C:\Users\beril\source\repos\projem\projem\obj\Debug\projem.AnaSayfa.resources
+C:\Users\beril\source\repos\projem\projem\bin\Debug\ExCSS.dll
+C:\Users\beril\source\repos\projem\projem\bin\Debug\Fizzler.dll
+C:\Users\beril\source\repos\projem\projem\bin\Debug\FontAwesome.WinForms.dll
+C:\Users\beril\source\repos\projem\projem\bin\Debug\GumroadLicensing.dll
+C:\Users\beril\source\repos\projem\projem\bin\Debug\Kimtoo.MenuBar.dll
+C:\Users\beril\source\repos\projem\projem\bin\Debug\Newtonsoft.Json.dll
+C:\Users\beril\source\repos\projem\projem\bin\Debug\Svg.dll
+C:\Users\beril\source\repos\projem\projem\bin\Debug\System.Buffers.dll
+C:\Users\beril\source\repos\projem\projem\bin\Debug\System.Memory.dll
+C:\Users\beril\source\repos\projem\projem\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\beril\source\repos\projem\projem\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\beril\source\repos\projem\projem\bin\Debug\Fizzler.pdb
+C:\Users\beril\source\repos\projem\projem\bin\Debug\Newtonsoft.Json.xml
+C:\Users\beril\source\repos\projem\projem\bin\Debug\Svg.xml
+C:\Users\beril\source\repos\projem\projem\bin\Debug\System.Buffers.xml
+C:\Users\beril\source\repos\projem\projem\bin\Debug\System.Memory.xml
+C:\Users\beril\source\repos\projem\projem\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\beril\source\repos\projem\projem\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\beril\source\repos\projem\projem\obj\Debug\projem.csproj.CopyComplete
+C:\Users\beril\source\repos\projem\projem\obj\Debug\projem.yonetici.resources
+C:\Users\beril\source\repos\projem\projem\obj\Debug\projem.hakkimizda.resources
+C:\Users\beril\source\repos\projem\projem\bin\Debug\EntityFramework.dll
+C:\Users\beril\source\repos\projem\projem\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\beril\source\repos\projem\projem\bin\Debug\System.Data.SQLite.dll
+C:\Users\beril\source\repos\projem\projem\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\beril\source\repos\projem\projem\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\beril\source\repos\projem\projem\bin\Debug\EntityFramework.xml
+C:\Users\beril\source\repos\projem\projem\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\beril\source\repos\projem\projem\bin\Debug\System.Data.SQLite.xml
+C:\Users\beril\source\repos\projem\projem\obj\Debug\projem.musterikayit.resources
+C:\Users\beril\source\repos\projem\projem\obj\Debug\projem.yoneticisayfa.resources
+C:\Users\beril\source\repos\projem\projem\obj\Debug\projem.rezervasyon.resources
+C:\Users\beril\source\repos\projem\projem\obj\Debug\projem.yoneticigirisekran.resources
+C:\Users\beril\source\repos\projem\projem\obj\Debug\projem.odadurum.resources
+C:\Users\beril\Desktop\Yeni klasör\projem\projem\bin\Debug\projem.exe.config
+C:\Users\beril\Desktop\Yeni klasör\projem\projem\bin\Debug\projem.exe
+C:\Users\beril\Desktop\Yeni klasör\projem\projem\bin\Debug\projem.pdb
+C:\Users\beril\Desktop\Yeni klasör\projem\projem\bin\Debug\EntityFramework.dll
+C:\Users\beril\Desktop\Yeni klasör\projem\projem\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\beril\Desktop\Yeni klasör\projem\projem\bin\Debug\ExCSS.dll
+C:\Users\beril\Desktop\Yeni klasör\projem\projem\bin\Debug\Fizzler.dll
+C:\Users\beril\Desktop\Yeni klasör\projem\projem\bin\Debug\FontAwesome.WinForms.dll
+C:\Users\beril\Desktop\Yeni klasör\projem\projem\bin\Debug\GumroadLicensing.dll
+C:\Users\beril\Desktop\Yeni klasör\projem\projem\bin\Debug\Kimtoo.MenuBar.dll
+C:\Users\beril\Desktop\Yeni klasör\projem\projem\bin\Debug\Newtonsoft.Json.dll
+C:\Users\beril\Desktop\Yeni klasör\projem\projem\bin\Debug\Svg.dll
+C:\Users\beril\Desktop\Yeni klasör\projem\projem\bin\Debug\System.Buffers.dll
+C:\Users\beril\Desktop\Yeni klasör\projem\projem\bin\Debug\System.Data.SQLite.dll
+C:\Users\beril\Desktop\Yeni klasör\projem\projem\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\beril\Desktop\Yeni klasör\projem\projem\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\beril\Desktop\Yeni klasör\projem\projem\bin\Debug\System.Memory.dll
+C:\Users\beril\Desktop\Yeni klasör\projem\projem\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\beril\Desktop\Yeni klasör\projem\projem\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\beril\Desktop\Yeni klasör\projem\projem\bin\Debug\EntityFramework.xml
+C:\Users\beril\Desktop\Yeni klasör\projem\projem\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\beril\Desktop\Yeni klasör\projem\projem\bin\Debug\Fizzler.pdb
+C:\Users\beril\Desktop\Yeni klasör\projem\projem\bin\Debug\Newtonsoft.Json.xml
+C:\Users\beril\Desktop\Yeni klasör\projem\projem\bin\Debug\Svg.xml
+C:\Users\beril\Desktop\Yeni klasör\projem\projem\bin\Debug\System.Buffers.xml
+C:\Users\beril\Desktop\Yeni klasör\projem\projem\bin\Debug\System.Data.SQLite.xml
+C:\Users\beril\Desktop\Yeni klasör\projem\projem\bin\Debug\System.Memory.xml
+C:\Users\beril\Desktop\Yeni klasör\projem\projem\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\beril\Desktop\Yeni klasör\projem\projem\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\beril\Desktop\Yeni klasör\projem\projem\obj\Debug\projem.csproj.AssemblyReference.cache
+C:\Users\beril\Desktop\Yeni klasör\projem\projem\obj\Debug\projem.Form1.resources
+C:\Users\beril\Desktop\Yeni klasör\projem\projem\obj\Debug\projem.AnaSayfa.resources
+C:\Users\beril\Desktop\Yeni klasör\projem\projem\obj\Debug\projem.hakkimizda.resources
+C:\Users\beril\Desktop\Yeni klasör\projem\projem\obj\Debug\projem.musterikayit.resources
+C:\Users\beril\Desktop\Yeni klasör\projem\projem\obj\Debug\projem.odadurum.resources
+C:\Users\beril\Desktop\Yeni klasör\projem\projem\obj\Debug\projem.Properties.Resources.resources
+C:\Users\beril\Desktop\Yeni klasör\projem\projem\obj\Debug\projem.rezervasyon.resources
+C:\Users\beril\Desktop\Yeni klasör\projem\projem\obj\Debug\projem.yonetici.resources
+C:\Users\beril\Desktop\Yeni klasör\projem\projem\obj\Debug\projem.yoneticigirisekran.resources
+C:\Users\beril\Desktop\Yeni klasör\projem\projem\obj\Debug\projem.yoneticisayfa.resources
+C:\Users\beril\Desktop\Yeni klasör\projem\projem\obj\Debug\projem.csproj.GenerateResource.cache
+C:\Users\beril\Desktop\Yeni klasör\projem\projem\obj\Debug\projem.csproj.CoreCompileInputs.cache
+C:\Users\beril\Desktop\Yeni klasör\projem\projem\obj\Debug\projem.csproj.Up2Date
+C:\Users\beril\Desktop\Yeni klasör\projem\projem\obj\Debug\projem.exe
+C:\Users\beril\Desktop\Yeni klasör\projem\projem\obj\Debug\projem.pdb
